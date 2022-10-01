@@ -1,0 +1,18 @@
+name: first-gym
+description: Builds a baseline template to start training and exploring the baseline3 and gym libraries
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name
+hooks:
+  - type: run
+    trigger: after-render
+    linux:
+      - ./runner.sh
+    windows:
+      - cmd /c ./runner.sh
+    mac:
+      - sh ./runner.sh

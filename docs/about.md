@@ -9,4 +9,8 @@ A **RL-gym** foi desenvolvida seguindo todas boas práticas de arquitetura de so
 + Clean Architecture
 + Componenentes desacoplados
 
-A Stack possui uma estrutura básica, onde o template cria estrutura de arquivos, e baixa as bibliotecas necessárias. 
+## Componentes
++ A Stack possui uma estrutura básica, onde o template cria estrutura de arquivos, e baixa as bibliotecas necessárias. 
++ Biblioteca do Baseline3 
++ Tensorboard para acompanhar métricas do treinamento
++ 2 scripts Python `training.py` e `run.py` para treinar e rodar seus agentes.

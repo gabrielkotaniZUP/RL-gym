@@ -2,12 +2,11 @@ description: Stack to create Reinforcement learning agents and policies using Gy
 name: RL-gym
 display-name: RL-gym
 picture: stack.png
-category: backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
+category: Backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
 compatibility: # Put a list of technologies compatible with the stack
-  - java
-  - spring
+  - Python
 technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#technologies 
-  - docker 
+  - Python 
 about: docs/about.md
 use-cases:
   - title: Use Case Title
