@@ -1,4 +1,4 @@
 type: app
 description: Default stackfile usecase description
 # template used to create the project
-template: RL-gym/first-gym
+template: reinforcement-learning-gym/first-gym

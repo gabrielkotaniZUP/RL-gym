@@ -1,6 +1,6 @@
 description: Stack to create Reinforcement learning agents and policies using Gym and Deep Learning
-name: RL-gym
-display-name: RL-gym
+name: reinforcement-learning-gym
+display-name: reinforcement-learning-gym
 picture: stack.png
 category: Backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
 compatibility: # Put a list of technologies compatible with the stack

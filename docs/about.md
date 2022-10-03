@@ -1,11 +1,11 @@
-# About RL-gym stack
+# About reinforcement-learning-gym stack
 
 Inicie sua jornada no mundo de **Reinforcement Learning** através da biblioteca do *Baseline3* com redes neurais já criadas.
 Use `Python` e outras ferramentas com `GUI` para facilitar seus testes, e deixar seu ambiente organizado.
 
 
 ## Estrutura da Stack
-A **RL-gym** foi desenvolvida seguindo todas boas práticas de arquitetura de software:
+A **reinforcement-learning-gym** foi desenvolvida seguindo todas boas práticas de arquitetura de software:
 + Clean Architecture
 + Componenentes desacoplados
 
